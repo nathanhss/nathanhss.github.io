@@ -1,0 +1,35 @@
+#email {
+  padding: 5px;
+}
+
+#git {
+  padding: 5px;
+}
+
+#linkedin {
+  padding: 5px;
+}
+
+#cv {
+  padding: 5px;
+}
+
+body {
+  justify-content: flex-end;
+}
+
+footer {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.content {
+  padding: 10px 10px 50px 50px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: grey;
+  border-radius: 5px;
+  height: auto;
+  width: 900px;
+  margin: 0 auto;
+}
